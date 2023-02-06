@@ -1,2 +1,2 @@
-# PaddleSuide-Learn-Exercise
+# PaddlePaddle-Learn-Exercise
 Paddle Suide Learn and Exercise
