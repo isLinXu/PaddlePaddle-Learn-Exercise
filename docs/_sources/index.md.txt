@@ -11,6 +11,7 @@ PaddlePaddle系列课程学习笔记。
 ```{toctree}
 :maxdepth: 2
 :caption: 目录
+ZeroToLearnDL/index.md
 ```
 
 
